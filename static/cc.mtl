@@ -1,0 +1,914 @@
+# Ardor3D 1.0 MTL file
+newmtl cc.mtl_1
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_2
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_3
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_4
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_5
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_6
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_7
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_8
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_9
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_10
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_11
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_12
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_13
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_14
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_15
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_16
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_17
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_18
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_19
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_20
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_21
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_22
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_23
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_24
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_25
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_26
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_27
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_28
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_29
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_30
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_31
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_32
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_33
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_34
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_35
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_36
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_37
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_38
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Kd door.png
+newmtl cc.mtl_39
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_40
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_41
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_42
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_43
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_44
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_45
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_46
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_47
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_48
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Kd door.png
+newmtl cc.mtl_49
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Kd door.png
+newmtl cc.mtl_50
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_51
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_52
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_53
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_54
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_55
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_56
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_57
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_58
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_59
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Kd door.png
+newmtl cc.mtl_60
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Kd door.png
+newmtl cc.mtl_61
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_62
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_63
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_64
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_65
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_66
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_67
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_68
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_69
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_70
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_71
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_72
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_73
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_74
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_75
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_76
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_77
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_78
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_79
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_80
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_81
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.2 0.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_82
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_83
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_84
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.2 0.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_85
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_86
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_87
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.2 0.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_88
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_89
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_90
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.2 0.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_91
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_92
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_93
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_94
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_95
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_96
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_97
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_98
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_99
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_100
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_101
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_102
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_103
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_104
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_105
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_106
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_107
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_108
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_109
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.4 0.4 0.4
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_110
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_111
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_112
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_113
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_114
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Kd door.png
+newmtl cc.mtl_115
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Kd door.png
+newmtl cc.mtl_116
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_117
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_118
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_119
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_120
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_121
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_122
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_123
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_124
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_125
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_126
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_127
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_128
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_129
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_130
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_131
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.3 0.3 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_132
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_133
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_134
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_135
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_136
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.0 0.6 0.2
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_137
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.2 0.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_138
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_139
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_140
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.2 0.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_141
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_142
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_143
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.2 0.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_144
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_145
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_146
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.2 0.0
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_147
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_148
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_149
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_150
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
+newmtl cc.mtl_151
+Ns 0.0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.0 0.0 0.0
+illum 1
